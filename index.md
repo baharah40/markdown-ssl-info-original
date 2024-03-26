@@ -43,4 +43,4 @@ https://www.youtube.com/watch?v=ntVeD1sQDsg&pp=ygUKd2F0IGlzIHNzbA%3D%3D
 
 YourHosting. (2022). Wat is SSL? Hoe werkt het en welke voordelen biedt het? YourHosting. Geraadpleegd op 6 maart 2024, van https://www.yourhosting.nl/blog/wat-is-ssl-hoe-werkt-het-en-welke-voordelen-bie
 
-[dit is een link naar mijn presentatie](../../../../presentatie.html)
+[dit is een link naar mijn presentatie](presentatie.html)
